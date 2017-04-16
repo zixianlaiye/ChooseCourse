@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/secondSkill.iml" filepath="$PROJECT_DIR$/secondSkill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChooseCouse.iml" filepath="$PROJECT_DIR$/ChooseCouse.iml" />
     </modules>
   </component>
 </project>
